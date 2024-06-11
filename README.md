@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dustin Karl ALmazan
 - 👀 I’m interested in Programming/Web development
-- 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web developmentg
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me Karl Almazan on facebook.
 
 <!---
 KarlCabreros/KarlCabreros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
